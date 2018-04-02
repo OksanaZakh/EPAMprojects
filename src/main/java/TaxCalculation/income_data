@@ -1,0 +1,31 @@
+{
+	"incomes": [{
+			"class": "Salary",
+			"income": "10000"
+		},
+		{
+			"class": "Salary",
+			"income": "4000"
+		},
+		{
+			"class": "CashTransfer",
+			"income": "2000"
+		},
+		{
+			"class": "Presents",
+			"income": "10000"
+		},
+		{
+			"class": "Presents",
+			"income": "200"
+		},
+		{
+			"class": "PropertySale",
+			"income": "6000000"
+		},
+		{
+			"class": "Royalty",
+			"income": "50000"
+		}
+	]
+}
