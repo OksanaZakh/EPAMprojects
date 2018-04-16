@@ -1,0 +1,88 @@
+2018-04-15 22:33:53,616 [ INFO][Controller] - Run started
+2018-04-15 22:34:02,284 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:34:08,425 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:34:08,471 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:34:08,471 [ INFO][Controller] - File modified done
+2018-04-15 22:34:08,471 [ INFO][Controller] - Run completed
+2018-04-15 22:36:14,968 [ INFO][Controller] - Run started
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:19,545 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:36:37,229 [ INFO][Controller] - Run started
+2018-04-15 22:36:39,596 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:36:44,092 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:36:44,139 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:36:44,139 [ERROR][Controller] - Fail to modify text
+2018-04-15 22:36:44,139 [ INFO][Controller] - File modified done
+2018-04-15 22:36:44,139 [ INFO][Controller] - Run completed
+2018-04-15 22:37:29,329 [ INFO][Controller] - Run started
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:31,748 [ERROR][Controller] - Wrong user input directory name
+2018-04-15 22:37:39,586 [ INFO][Controller] - Run started
+2018-04-15 22:37:45,458 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:37:51,386 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:37:51,432 [ERROR][Controller] - Fail to parse data in file
+2018-04-15 22:37:51,432 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:37:51,432 [ERROR][Controller] - Fail to modify text
+2018-04-15 22:37:51,432 [ INFO][Controller] - File modified done
+2018-04-15 22:37:51,432 [ INFO][Controller] - Run completed
+2018-04-15 22:38:06,808 [ INFO][Controller] - Run started
+2018-04-15 22:38:10,541 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:38:15,433 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:38:15,479 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:38:15,479 [ERROR][Controller] - Fail to modify text
+2018-04-15 22:38:15,479 [ INFO][Controller] - File modified done
+2018-04-15 22:38:15,479 [ INFO][Controller] - Run completed
+2018-04-15 22:39:33,088 [ INFO][Controller] - Run started
+2018-04-15 22:39:40,761 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:39:51,136 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:39:51,183 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:39:51,183 [ERROR][Controller] - Fail to modify text
+2018-04-15 22:39:51,183 [ INFO][Controller] - File modified done
+2018-04-15 22:39:51,199 [ INFO][Controller] - Run completed
+2018-04-15 22:41:01,566 [ INFO][Controller] - Run started
+2018-04-15 22:41:04,997 [ INFO][Controller] - Input directory is inserted
+2018-04-15 22:41:10,922 [ INFO][Controller] - Input filename is inserted
+2018-04-15 22:41:10,973 [ INFO][Controller] - Parsed data from file
+2018-04-15 22:41:10,977 [ERROR][Controller] - Fail to modify text
+2018-04-15 22:41:10,977 [ INFO][Controller] - File modified done
+2018-04-15 22:41:10,979 [ INFO][Controller] - Run completed
+2018-04-16 16:25:11,544 [ INFO][Controller] - Run started
+2018-04-16 16:25:35,760 [ERROR][Controller] - Wrong user input directory name
+2018-04-16 16:25:45,272 [ INFO][Controller] - Input directory is inserted
+2018-04-16 16:25:51,760 [ INFO][Controller] - Input filename is inserted
+2018-04-16 16:25:51,807 [ INFO][Controller] - Parsed data from file
+2018-04-16 16:25:51,807 [ERROR][Controller] - Fail to modify text
+2018-04-16 16:25:51,807 [ INFO][Controller] - File modified done
+2018-04-16 16:25:51,807 [ INFO][Controller] - Run completed
+2018-04-16 16:27:39,372 [ INFO][Controller] - Run started
+2018-04-16 16:27:56,026 [ INFO][Controller] - Input directory is inserted
+2018-04-16 16:28:00,372 [ INFO][Controller] - Input filename is inserted
+2018-04-16 16:28:00,419 [ INFO][Controller] - Parsed data from file
+2018-04-16 16:28:00,419 [ERROR][Controller] - Fail to modify text
+2018-04-16 16:28:00,419 [ INFO][Controller] - File modified done
+2018-04-16 16:28:00,419 [ INFO][Controller] - Run completed
+2018-04-16 16:29:35,387 [ INFO][Controller] - Run started
+2018-04-16 16:29:37,497 [ INFO][Controller] - Input directory is inserted
+2018-04-16 16:29:39,991 [ERROR][Controller] - Wrong user input file mane
+2018-04-16 16:29:47,170 [ INFO][Controller] - Input filename is inserted
+2018-04-16 16:29:47,217 [ INFO][Controller] - Parsed data from file
+2018-04-16 16:29:47,217 [ INFO][Controller] - File modified done
+2018-04-16 16:29:47,217 [ INFO][Controller] - Run completed
